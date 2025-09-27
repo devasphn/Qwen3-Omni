@@ -31,6 +31,7 @@ We release **Qwen3-Omni**, the natively end-to-end multilingual omni-modal found
 
 
 ## News
+* 2025.09.26: ⭐️⭐️⭐️ Qwen3-Omni reaches top-1 on Hugging Face Trending! 
 * 2025.09.22: 🎉🎉🎉 We have released [Qwen3-Omni](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe). For more details, please check our [blog](https://qwen.ai/blog?id=65f766fc2dcba7905c1cb69cc4cab90e94126bf4&from=research.latest-advancements-list)!
 
 ## Contents <!-- omit in toc -->
