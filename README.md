@@ -2167,7 +2167,7 @@ Qwen3-Omni maintains state-of-the-art performance on text and visual modalities 
 | Task Type | Prompt |
 | :--- | :--- |
 | Auto Speech Recognition (ASR) for Chinese | 请将这段中文语音转换为纯文本。 |
-| Auto Speech Recognition (ASR) for Other languages | Transcribe the <language> audio into text. |
+| Auto Speech Recognition (ASR) for Other languages | Transcribe the <source_language> audio into text. |
 | Speech-to-Text Translation (S2TT) | Listen to the provided <source_language> speech and produce a translation in <target_language> text. |
 | Song Lyrics Recognition | Transcribe the song lyrics into text without any punctuation, separate lines with line breaks, and output only the lyrics without additional explanations. |
 
