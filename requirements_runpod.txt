@@ -2,7 +2,7 @@ torch>=2.0.0
 transformers>=4.45.0
 accelerate>=0.21.0
 flash-attn>=2.5.0
-qwen-omni-utils>=1.0.0
+qwen-omni-utils==0.0.8
 fastapi>=0.100.0
 uvicorn[standard]>=0.23.0
 websockets>=11.0.0
