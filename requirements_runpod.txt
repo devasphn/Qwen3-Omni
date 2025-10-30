@@ -1,0 +1,16 @@
+torch>=2.0.0
+transformers>=4.45.0
+accelerate>=0.21.0
+flash-attn>=2.5.0
+qwen-omni-utils>=1.0.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+websockets>=11.0.0
+soundfile>=0.12.1
+librosa>=0.10.0
+numpy>=1.24.0
+aiofiles>=23.0.0
+python-multipart>=0.0.6
+jinja2>=3.1.0
+requests>=2.31.0
+psutil>=5.9.0
